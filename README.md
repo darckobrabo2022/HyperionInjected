@@ -6,6 +6,7 @@
 local ScreenGui = Instance.new("ScreenGui")
 local ImageLabel = Instance.new("ImageLabel")
 local text = Instance.new("TextLabel")
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Hyperon", Text = "Hyperon as ben injected Shadow & Studios!!!"})
 
 --Properties:
 
